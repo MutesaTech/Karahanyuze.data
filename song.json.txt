@@ -1,0 +1,43 @@
+{
+  "songs": [
+    {
+      "id": "1",
+      "title": "Urukundo",
+      "artist": "Artist One",
+      "url": "https://archive.org/download/song1/song1.mp3",
+      "cover": "https://via.placeholder.com/300",
+      "category": "love"
+    },
+    {
+      "id": "2",
+      "title": "Imbaraga z'Imana",
+      "artist": "Gospel Artist",
+      "url": "https://archive.org/download/song2/song2.mp3",
+      "cover": "https://via.placeholder.com/300",
+      "category": "gospel"
+    },
+    {
+      "id": "3",
+      "title": "Kera",
+      "artist": "Classic Singer",
+      "url": "https://archive.org/download/song3/song3.mp3",
+      "cover": "https://via.placeholder.com/300",
+      "category": "old"
+    }
+  ],
+
+  "playlists": [
+    {
+      "name": "Top Rwanda",
+      "songs": ["1", "2"]
+    },
+    {
+      "name": "Gospel Mix",
+      "songs": ["2"]
+    },
+    {
+      "name": "Old Classics",
+      "songs": ["3"]
+    }
+  ]
+}
