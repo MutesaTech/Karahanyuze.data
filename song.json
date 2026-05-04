@@ -1,20 +1,4 @@
 {
-   "playlists": [
-    {
-      "name": "Top Rwanda",
-      "songs": ["1", "2"]
-    },
-    {
-      "name": "Gospel Mix",
-      "songs": ["2"]
-    },
-    {
-      "name": "Old Classics",
-      "songs": ["3"]
-    }
-  ],
-  
-  
   "songs": [
     {
       "id": "1",
@@ -179,5 +163,20 @@
     
   ],
 
+   "playlists": [
+    {
+      "name": "Top Rwanda",
+      "songs": ["1", "2"]
+    },
+    {
+      "name": "Gospel Mix",
+      "songs": ["2"]
+    },
+    {
+      "name": "Old Classics",
+      "songs": ["3"]
+    }
+  ]
+  
  
 }
