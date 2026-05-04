@@ -1,4 +1,20 @@
 {
+   "playlists": [
+    {
+      "name": "Top Rwanda",
+      "songs": ["1", "2"]
+    },
+    {
+      "name": "Gospel Mix",
+      "songs": ["2"]
+    },
+    {
+      "name": "Old Classics",
+      "songs": ["3"]
+    }
+  ]
+  
+  
   "songs": [
     {
       "id": "1",
@@ -79,22 +95,89 @@
       "url": "",
       "cover": "",
       "category": ""
+    },
+    {
+      "id": "11",
+      "title": "",
+      "artist": "",
+      "url": "",
+      "cover": "",
+      "category": ""
+    },
+    {
+      "id": "12",
+      "title": "",
+      "artist": "",
+      "url": "",
+      "cover": "",
+      "category": ""
+    },
+    {
+      "id": "13",
+      "title": "",
+      "artist": "",
+      "url": "",
+      "cover": "",
+      "category": ""
+    },
+    {
+      "id": "14",
+      "title": "",
+      "artist": "",
+      "url": "",
+      "cover": "",
+      "category": ""
+    },
+    {
+      "id": "15",
+      "title": "",
+      "artist": "",
+      "url": "",
+      "cover": "",
+      "category": ""
+    },
+    {
+      "id": "16",
+      "title": "",
+      "artist": "",
+      "url": "",
+      "cover": "",
+      "category": ""
+    },
+    {
+      "id": "17",
+      "title": "",
+      "artist": "",
+      "url": "",
+      "cover": "",
+      "category": ""
+    },
+    {
+      "id": "18",
+      "title": "",
+      "artist": "",
+      "url": "",
+      "cover": "",
+      "category": ""
+    },
+    {
+      "id": "19",
+      "title": "",
+      "artist": "",
+      "url": "",
+      "cover": "",
+      "category": ""
+    },
+    {
+      "id": "20",
+      "title": "",
+      "artist": "",
+      "url": "",
+      "cover": "",
+      "category": ""
     }
     
   ],
 
-  "playlists": [
-    {
-      "name": "Top Rwanda",
-      "songs": ["1", "2"]
-    },
-    {
-      "name": "Gospel Mix",
-      "songs": ["2"]
-    },
-    {
-      "name": "Old Classics",
-      "songs": ["3"]
-    }
-  ]
+ 
 }
